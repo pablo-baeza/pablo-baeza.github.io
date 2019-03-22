@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/en/about-hugo/</loc>
+    <loc>https://pablo-baeza.github.io/en/about-hugo/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/en/tags/</loc>
+    <loc>https://pablo-baeza.github.io/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/"
+                href="https://pablo-baeza.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="https://pablo-baeza.github.io/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/</loc>
+    <loc>https://pablo-baeza.github.io/en/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/"
+                href="https://pablo-baeza.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://pablo-baeza.github.io/en/"
                 />
   </url>
   

@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/es/tags/</loc>
+    <loc>https://pablo-baeza.github.io/es/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="https://pablo-baeza.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/"
+                href="https://pablo-baeza.github.io/es/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/es/</loc>
+    <loc>https://pablo-baeza.github.io/es/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://pablo-baeza.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/"
+                href="https://pablo-baeza.github.io/es/"
                 />
   </url>
   
