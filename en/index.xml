@@ -1,26 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hi! i&#39;m pablo</title>
+    <title>i&#39;m pablo</title>
     <link>https://pablo-baeza.github.io/en/</link>
-    <description>Recent content on hi! i&#39;m pablo</description>
+    <description>Recent content on i&#39;m pablo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pablo-baeza.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About Hugo</title>
-      <link>https://pablo-baeza.github.io/en/about-hugo/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>https://pablo-baeza.github.io/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pablo-baeza.github.io/en/about-hugo/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+      <guid>https://pablo-baeza.github.io/en/about/</guid>
+      <description>Hello! I&amp;rsquo;m Pablo. blahblahblah</description>
+    </item>
+    
+    <item>
+      <title>cv</title>
+      <link>https://pablo-baeza.github.io/en/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablo-baeza.github.io/en/cv/</guid>
+      <description>my cv. also in pdf&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>https://pablo-baeza.github.io/en/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablo-baeza.github.io/en/research/</guid>
+      <description>about my reserach. blahblahblah
+publications here</description>
     </item>
     
   </channel>

@@ -3,8 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pablo-baeza.github.io/en/about-hugo/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>https://pablo-baeza.github.io/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pablo-baeza.github.io/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pablo-baeza.github.io/en/about/"
+                />
   </url>
   
   <url>
@@ -23,8 +32,21 @@
   </url>
   
   <url>
+    <loc>https://pablo-baeza.github.io/en/cv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pablo-baeza.github.io/es/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pablo-baeza.github.io/en/cv/"
+                />
+  </url>
+  
+  <url>
     <loc>https://pablo-baeza.github.io/en/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -35,6 +57,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://pablo-baeza.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pablo-baeza.github.io/en/research/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pablo-baeza.github.io/es/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pablo-baeza.github.io/en/research/"
                 />
   </url>
   

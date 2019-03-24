@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>¡hola! soy pablo</title>
+    <title>soy pablo</title>
     <link>https://pablo-baeza.github.io/es/</link>
-    <description>Recent content on ¡hola! soy pablo</description>
+    <description>Recent content on soy pablo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     
 	<atom:link href="https://pablo-baeza.github.io/es/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Acerca de</title>
+      <link>https://pablo-baeza.github.io/es/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablo-baeza.github.io/es/about/</guid>
+      <description>Hola! soy pablo . blahblahblah</description>
+    </item>
+    
+    <item>
+      <title>cv</title>
+      <link>https://pablo-baeza.github.io/es/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablo-baeza.github.io/es/cv/</guid>
+      <description>mi cv. tb en pdf&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>investigación</title>
+      <link>https://pablo-baeza.github.io/es/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablo-baeza.github.io/es/research/</guid>
+      <description>acerca de mi investigación&amp;hellip;
+publicaciones aquí</description>
+    </item>
     
   </channel>
 </rss>
